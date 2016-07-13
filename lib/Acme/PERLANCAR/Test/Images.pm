@@ -14,7 +14,3 @@ use warnings;
 =head1 DESCRIPTION
 
 This distribution contains images in the F<share/images> directory.
-
-# IMAGE: share/images/icon-github.png
-# IMAGE: share/images/bakmi.jpg
-# IMAGE: share/images/spending.gif
