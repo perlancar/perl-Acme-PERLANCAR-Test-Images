@@ -1,5 +1,12 @@
 Revision history for Acme-PERLANCAR-Test-Images
 
+0.003   2016-07-13 (PERLANCAR)
+
+	- Use DZP:InsertDistImage.
+
+	- Add html that show the images (bitbucket & gitlab URLs).
+
+
 0.002    2016-07-13 (PERLANCAR)
 
          - Add some HTML pages that loads the images using several hosting
